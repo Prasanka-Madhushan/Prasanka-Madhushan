@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a undergraduate in NSBM/ Plymouth University.<br>👯 I’m looking to collaborate on web developing.<br>🌱 I’m currently learning many programming languages.<br>💬 Ask me about web developing.<br>⚡ Fun fact - I'm lazy but smart.
+🔭 I’m currently a undergraduate in NSBM/ Plymouth University.<br>👯 I’m looking to collaborate on web developing.<br>💬 Ask me about web developing.<br>⚡ Fun fact - I'm lazy but smart.
 
 
 ## 🌐 Socials:
