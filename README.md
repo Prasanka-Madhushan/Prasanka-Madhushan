@@ -1,3 +1,7 @@
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Prasanka-Madhushan)
+<h1 align="center">Hi 👋, I'm Prasanka</h1>
+<h3 align="center">A passionate UI designer</h3>
+
 # 💫 About Me:
 👨‍🎓 I’m currently a undergraduate in NSBM/ Plymouth University.<br>🖥️ I’m looking to collaborate on web developing.<br>💬 Ask me about web developing.<br>✨ Fun fact - I'm lazy but smart.
 
