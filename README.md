@@ -52,7 +52,4 @@
 
 <p align="center">
     <img src="https://visitcount.itsvg.in/api?id=Prasanka-Madhushan&label=Profile%20Views&pretty=false">
-
-
-<img alt="followers" src="https://img.shields.io/github/followers/Prasanka-Madhushan?label=Followers&style=social">
 </p>
