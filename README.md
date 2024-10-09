@@ -1,6 +1,6 @@
 [![Prasanka's GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Prasanka-Madhushan)
 <h1 align="center">Hi 👋, I'm Prasanka Madhushan</h1>
-<h3 align="center">A passionate UI designer from Sri Lanka</h3>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prasanka-madushan-53a0ab21a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
@@ -11,9 +11,9 @@
 ---
 
 ## 💫 About Me:
-👨‍🎓 I’m an undergraduate at NSBM/Plymouth University.<br>
-🖥️ Looking to collaborate on web development projects.<br>
-💬 Ask me about web development and UI design.<br>
+👨‍🎓 I’m an graduate at NSBM/Plymouth University.<br>
+🖥️ Looking to collaborate on web/mobile development projects.<br>
+💬 Ask me about web/mobile development.<br>
 ✨ Fun fact: I'm lazy but smart.
 
 ## 💻 Tech Stack:
